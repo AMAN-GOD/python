@@ -65,5 +65,5 @@ if __name__ == "__main__":
             cactus.grow(sunlight,water)
             cactus.status()
 
-            time.sleep(2)
+            time.sleep(3)
         
