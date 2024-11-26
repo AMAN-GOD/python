@@ -1,9 +1,0 @@
-a=10
-b="aman"
-c=18.34
-print(id(a))
-print(id(b))
-print(id(c))
-print(type(a))
-print(type(b))
-print(type(c))
